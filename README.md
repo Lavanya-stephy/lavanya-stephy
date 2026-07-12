@@ -5,7 +5,7 @@
 ### 👩 I am Lavanya stephy 
 
 
-  🎓 A freshman pursuing Engineering in Cybersecurity at REC<br>
+  🎓 Second year student pursuing Engineering in Cybersecurity at REC<br>
   🔭 I’m currently working on upskilling me for my core skills and beyond my sector<br>
   😄 Pronouns: She/her<br>
   ⚡Reach me: [🔗LinkedIn](https://linkedin.com/in/lavanya-stephy)<br>
