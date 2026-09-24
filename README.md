@@ -83,19 +83,6 @@
 ⚙️ Backend Development
 </p>
 
-<h2>🧠 Currently Working On</h2>
-
-<ul>
-<li>Hands-on Cybersecurity Practice with TryHackMe</li>
-<li>Strengthening my cybersecurity fundamentals</li>
-<li>Improving Python and Java programming</li>
-<li>Learning SQL and database concepts</li>
-<li>Practicing computer networking and Linux</li>
-<li>Building practical cybersecurity and backend projects</li>
-</ul>
-
-
-
 <hr>
 
 <p align="center">
