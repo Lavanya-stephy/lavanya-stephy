@@ -1,5 +1,3 @@
-  <h1>Hi, I’m Lavanya stephy 👋🏾 👩🏾‍💻</h1>
-I'm a second-year Computer Science Engineering (Cybersecurity) student with a strong interest in backend development and cybersecurity. I enjoy learning how systems work, building secure and efficient applications, and solving real-world problems through technology. I'm constantly exploring new tools and technologies to improve my skills and grow as a software developer. My goal is to create reliable, scalable, and secure solutions while continuously learning and taking on new challenges.
 
 <h2>👩‍💻 About Me</h2>
 
@@ -40,10 +38,13 @@ I'm a second-year Computer Science Engineering (Cybersecurity) student with a st
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
 </p>
+
 
 <h3>🔧 Tools & Technologies</h3>
 
@@ -55,50 +56,6 @@ I'm a second-year Computer Science Engineering (Cybersecurity) student with a st
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
 </p>
 
-<h2>🚀 Projects</h2>
-
-<h3>🔑 Password Policy Enforcer</h3>
-
-<p>
-A Python-based password security tool that evaluates password strength using
-regular expressions and security rules.
-</p>
-
-<ul>
-<li>Password strength validation</li>
-<li>Blocked-word detection</li>
-<li>Strong password generation</li>
-<li>Regex-based security checks</li>
-</ul>
-
-<h3>🌐 Port Scanner</h3>
-
-<p>
-A Python-based network port scanner designed to identify open ports on a target
-host and provide useful service information.
-</p>
-
-<ul>
-<li>Socket-based port scanning</li>
-<li>Custom port ranges</li>
-<li>Progress tracking using tqdm</li>
-<li>Service identification</li>
-<li>Export results to TXT and CSV</li>
-</ul>
-
-<h3>🛡️ File Integrity Checker</h3>
-
-<p>
-A Python security tool that uses SHA-256 hashing to detect unauthorized changes
-to files.
-</p>
-
-<ul>
-<li>SHA-256 hashing</li>
-<li>JSON-based baseline storage</li>
-<li>File modification detection</li>
-<li>Integrity verification</li>
-</ul>
 
 <h2>🏆 Achievements & Activities</h2>
 
@@ -107,11 +64,6 @@ to files.
 <li>🔐 Participated in <b>Cyber Mystery – Decode the Crime</b> CTF at Sathyabama University.</li>
 <li>🤖 Attended a <b>3-Day Workshop-cum-Hackathon</b> focused on Machine Learning at KCG College of Technology.</li>
 <li>💻 Participated in multiple technical hackathons and hands-on cybersecurity activities.</li>
-</ul>
-
-<h2>📜 Certifications & Job Simulations</h2>
-
-<ul>
 <li>🔐 <b>Introduction to Cybersecurity</b> – Cisco Networking Academy</li>
 <li>💼 <b>Cybersecurity: IAM Developer Job Simulation</b> – Tata</li>
 </ul>
@@ -121,6 +73,8 @@ to files.
 <p>
 🔐 Cybersecurity & Ethical Hacking<br>
 🌐 Computer Networks<br>
+🎯 Capture The Flag (CTF) Challenges<br>
+🐧 Ubuntu & Kali Linux<br>
 🐍 Python Programming<br>
 ☕ Java & Object-Oriented Programming<br>
 🗄️ SQL & Database Management Systems<br>
@@ -132,6 +86,7 @@ to files.
 <h2>🧠 Currently Working On</h2>
 
 <ul>
+<li>Hands-on Cybersecurity Practice with TryHackMe</li>
 <li>Strengthening my cybersecurity fundamentals</li>
 <li>Improving Python and Java programming</li>
 <li>Learning SQL and database concepts</li>
@@ -139,37 +94,7 @@ to files.
 <li>Building practical cybersecurity and backend projects</li>
 </ul>
 
-<h2>🎯 My Interests</h2>
 
-<p>
-🔐 Cybersecurity & Information Security<br>
-🌐 Network Security<br>
-🛡️ Secure Software Development<br>
-🐍 Python Development<br>
-⚙️ Backend Development<br>
-🤖 Machine Learning
-</p>
-
-<h2>📈 My Development Journey</h2>
-
-<p>
-I believe in learning by building. I continuously work on small projects,
-participate in hackathons and technical events, and explore new technologies
-to strengthen both my theoretical knowledge and practical skills.
-</p>
-
-<h2>🤝 Let's Connect</h2>
-
-<p>
-I'm always interested in learning, collaborating on technical projects,
-participating in cybersecurity challenges, and exploring new technologies.
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/lavanya-stephy">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-</p>
 
 <hr>
 
